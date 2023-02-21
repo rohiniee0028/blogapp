@@ -29,44 +29,16 @@
       "likes": 0,
       "comments": [],
       "id": 4
-    },
-    {
-      "username": "Rohini Kushwaha",
-      "title": "Artificial Intelligence",
-      "content": "Now days, AI is in trend.",
-      "category": "Tech",
-      "date": "2023-02-07",
-      "likes": 0,
-      "comments": [],
-      "id": 5
-    },
-    {
-      "username": "Rohini Kushwaha",
-      "title": "politics",
-      "content": "rahul gandhi is on walk of India.",
-      "category": "Entertainment",
-      "date": "2023-02-14",
-      "likes": 0,
-      "comments": [],
-      "id": 6
     }
+    
   ],
   "users": [
-    {
-      "username": "Rohini Kushwaha",
-      "avatar": "http://www.venmond.com/demo/vendroid/img/avatar/big.jpg",
-      "email": "rohini19394@gmail.com",
-      "password": "0786",
-      "id": 1
-    }
+  
   ],
   "loggeduser": [
-    {
-      "username": "Rohini Kushwaha",
-      "avatar": "http://www.venmond.com/demo/vendroid/img/avatar/big.jpg",
-      "email": "rohini19394@gmail.com",
-      "password": "0786",
-      "id": 1
-    }
+    
+  ],
+  "task" : [
+    
   ]
 }
