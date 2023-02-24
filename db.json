@@ -1,44 +1,336 @@
 {
-  "blogs": [
+  "Kids": [
     {
-      "username": "Rohini Kushwaha",
-      "title": "Be human",
-      "content": "Being human is one of the greatest achievement in the world.",
-      "category": "Lifestyle",
-      "date": "2023-02-12",
-      "likes": 0,
-      "comments": [],
-      "id": 2
+      "id": 1,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/29/P00696795.jpg",
+      "name": "DOLCE&GABBANA KIDS",
+      "price": "13650",
+      "description": "Baby printed cotton bodysuit",
+      "details": "This cotton bodysuit from Dolce&Gabbana Kids is a sweet choice for summer. Featuring a shirred bodice and frill trims, it's printed with a pretty blue tile pattern that's inspired by Italian maiolica pottery."
     },
     {
-      "username": "Rohini Kushwaha",
-      "title": "Honesty",
-      "content": "Honesty is the real power of any human kind. it is the best policy any human can do.",
-      "category": "Tech",
-      "date": "2023-02-16",
-      "likes": 0,
-      "comments": [],
-      "id": 3
+      "id": 2,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/6b/P00687090.jpg",
+      "name": "STELLA MCCARTNEY KIDS",
+      "price": "4500",
+      "description": "Baby embroidered cotton dress",
+      "details": "This cotton bodysuit from Dolce&Gabbana Kids is a sweet choice for summer. Featuring a shirred bodice and frill trims, it's printed with a pretty blue tile pattern that's inspired by Italian maiolica pottery."
     },
     {
-      "username": "Rohini Kushwaha",
-      "title": "hello",
-      "content": "kjsdbckdsjbcdsjvb",
-      "category": "Buisness",
-      "date": "2023-02-17",
-      "likes": 0,
-      "comments": [],
-      "id": 4
+      "id": 3,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/bd/P00713662.jpg",
+      "name": "KENZO KIDS",
+      "price": "7035",
+      "description": "Baby logo-embroidered sweatshirt",
+      "details": "This cotton bodysuit from Dolce&Gabbana Kids is a sweet choice for summer. Featuring a shirred bodice and frill trims, it's printed with a pretty blue tile pattern that's inspired by Italian maiolica pottery."
+    },
+    {
+      "id": 4,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/bb/P00687557.jpg",
+      "name": "STELLA MCCARTNEY KIDS",
+      "price": "5575",
+      "description": "Baby cotton bodysuit and onesie set",
+      "details": "This cotton bodysuit from Dolce&Gabbana Kids is a sweet choice for summer. Featuring a shirred bodice and frill trims, it's printed with a pretty blue tile pattern that's inspired by Italian maiolica pottery."
+    },
+    {
+      "id": 5,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/7c/P00687560.jpg",
+      "name": "STELLA MCCARTNEY KIDS",
+      "price": "5690",
+      "description": "Baby set of 2 cotton jersey onesies",
+      "details": "This cotton bodysuit from Dolce&Gabbana Kids is a sweet choice for summer. Featuring a shirred bodice and frill trims, it's printed with a pretty blue tile pattern that's inspired by Italian maiolica pottery."
+    },
+    {
+      "id": 6,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/71/P00687563.jpg",
+      "name": "STELLA MCCARTNEY KIDS",
+      "price": "4580",
+      "description": "Baby set of cotton jersey onesie and bib",
+      "details": "This cotton bodysuit from Dolce&Gabbana Kids is a sweet choice for summer. Featuring a shirred bodice and frill trims, it's printed with a pretty blue tile pattern that's inspired by Italian maiolica pottery."
+    },
+    {
+      "id": 7,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ea/P00724876.jpg",
+      "name": "CANADA GOOSE KIDS",
+      "price": "28700",
+      "description": "Baby Crofton padded jacket",
+      "details": "This cotton bodysuit from Dolce&Gabbana Kids is a sweet choice for summer. Featuring a shirred bodice and frill trims, it's printed with a pretty blue tile pattern that's inspired by Italian maiolica pottery."
+    },
+    {
+      "id": 8,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/07/P00724877.jpg",
+      "name": "CANADA GOOSE KIDS",
+      "price": "27650",
+      "description": "Baby Crofton padded jacket",
+      "details": "This cotton bodysuit from Dolce&Gabbana Kids is a sweet choice for summer. Featuring a shirred bodice and frill trims, it's printed with a pretty blue tile pattern that's inspired by Italian maiolica pottery."
+    },
+    {
+      "id": 9,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d2/P00687683.jpg",
+      "name": "STELLA MCCARTNEY KIDS",
+      "price": "5650",
+      "description": "Baby printed dress and bloomers set",
+      "details": "This cotton bodysuit from Dolce&Gabbana Kids is a sweet choice for summer. Featuring a shirred bodice and frill trims, it's printed with a pretty blue tile pattern that's inspired by Italian maiolica pottery."
+    },
+    {
+      "id": 10,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/94/P00722734.jpg",
+      "name": "BURBERRY KIDS",
+      "price": "15650",
+      "description": "Baby Vintage Check jacquard cardigan",
+      "details": "This cotton bodysuit from Dolce&Gabbana Kids is a sweet choice for summer. Featuring a shirred bodice and frill trims, it's printed with a pretty blue tile pattern that's inspired by Italian maiolica pottery."
+    },
+    {
+      "id": 11,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1e/P00722719.jpg",
+      "name": "BURBERRY KIDS",
+      "price": "21650",
+      "description": "Baby Check sweatpants",
+      "details": "This cotton bodysuit from Dolce&Gabbana Kids is a sweet choice for summer. Featuring a shirred bodice and frill trims, it's printed with a pretty blue tile pattern that's inspired by Italian maiolica pottery."
+    },
+    {
+      "id": 12,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f0/P00688256.jpg",
+      "name": "STELLA MCCARTNEY KIDS",
+      "price": "13650",
+      "description": "Baby intarsia cotton and wool sweater",
+      "details": "This cotton bodysuit from Dolce&Gabbana Kids is a sweet choice for summer. Featuring a shirred bodice and frill trims, it's printed with a pretty blue tile pattern that's inspired by Italian maiolica pottery."
+    },
+    {
+      "id": 13,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/16/P00687615.jpg",
+      "name": "STELLA MCCARTNEY KIDS",
+      "price": "5865",
+      "description": "Baby cotton and wool blanket",
+      "details": "This cotton bodysuit from Dolce&Gabbana Kids is a sweet choice for summer. Featuring a shirred bodice and frill trims, it's printed with a pretty blue tile pattern that's inspired by Italian maiolica pottery."
+    },
+    {
+      "id": 14,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/73/P00717062.jpg",
+      "name": "IL GUFO",
+      "price": "6548",
+      "description": "Baby set of tiered cotton-blend top and bloomers",
+      "details": "This cotton bodysuit from Dolce&Gabbana Kids is a sweet choice for summer. Featuring a shirred bodice and frill trims, it's printed with a pretty blue tile pattern that's inspired by Italian maiolica pottery."
+    },
+    {
+      "id": 15,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/3d/P00715743.jpg",
+      "name": "BONPOINT",
+      "price": "9500",
+      "description": "Baby shearling booties",
+      "details": "This cotton bodysuit from Dolce&Gabbana Kids is a sweet choice for summer. Featuring a shirred bodice and frill trims, it's printed with a pretty blue tile pattern that's inspired by Italian maiolica pottery."
+    },
+    {
+      "id": 16,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f7/P00699459.jpg",
+      "name": "MOSCHINO KIDS",
+      "price": "19650",
+      "description": "Baby cotton-blend sweatshirt and sweatpants set",
+      "details": "This cotton bodysuit from Dolce&Gabbana Kids is a sweet choice for summer. Featuring a shirred bodice and frill trims, it's printed with a pretty blue tile pattern that's inspired by Italian maiolica pottery."
+    },
+    {
+      "id": 17,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/04/P00717017.jpg",
+      "name": "IL GUFO",
+      "price": "4785",
+      "description": "Baby cotton clocqué onesie",
+      "details": "This cotton bodysuit from Dolce&Gabbana Kids is a sweet choice for summer. Featuring a shirred bodice and frill trims, it's printed with a pretty blue tile pattern that's inspired by Italian maiolica pottery."
+    },
+    {
+      "id": 18,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/de/P00698197.jpg",
+      "name": "MOSCHINO KIDS",
+      "price": "14650",
+      "description": "Baby teddy top and tulle skirt",
+      "details": "This cotton bodysuit from Dolce&Gabbana Kids is a sweet choice for summer. Featuring a shirred bodice and frill trims, it's printed with a pretty blue tile pattern that's inspired by Italian maiolica pottery."
+    },
+    {
+      "id": 19,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/aa/P00722045.jpg",
+      "name": "POLO RALPH LAUREN KIDS",
+      "price": "7985",
+      "description": "Baby sweatshirt and sweatpants set",
+      "details": "This cotton bodysuit from Dolce&Gabbana Kids is a sweet choice for summer. Featuring a shirred bodice and frill trims, it's printed with a pretty blue tile pattern that's inspired by Italian maiolica pottery."
+    },
+    {
+      "id": 20,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/50/P00722051.jpg",
+      "name": "POLO RALPH LAUREN KIDS",
+      "price": "10540",
+      "description": "Baby tracksuit and T-shirt set",
+      "details": "This cotton bodysuit from Dolce&Gabbana Kids is a sweet choice for summer. Featuring a shirred bodice and frill trims, it's printed with a pretty blue tile pattern that's inspired by Italian maiolica pottery."
     }
-    
   ],
-  "users": [
-  
+  "Life": [
+    {
+      "id": 1,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/95/P00678854.jpg",
+      "name": "LA DOUBLEJ",
+      "price": "13500",
+      "description": "Wildbird set of 6 dessert plates",
+      "details": "Designed by La DoubleJ in collaboration with Italian ceramic giants Ancap, the colorful Wildbird dessert plate set is a selection of fine porcelain plates defined by bold patterns and hand-painted gold trims. Dishwasher safe, this colorful set of six plates is equally suited to serving salads and can be paired with other plates by La DoubleJ for a maximalist explosion of pattern and pigment."
+    },
+    {
+      "id": 2,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/61/P00678856.jpg",
+      "name": "LA DOUBLEJ",
+      "price": "790",
+      "description": "Wildbird set of 2 dessert plates",
+      "details": "Designed by La DoubleJ in collaboration with Italian ceramic giants Ancap, the colorful Wildbird dessert plate set is a selection of fine porcelain plates defined by bold patterns and hand-painted gold trims. Dishwasher safe, this colorful set of six plates is equally suited to serving salads and can be paired with other plates by La DoubleJ for a maximalist explosion of pattern and pigment."
+    },
+    {
+      "id": 3,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1f/P00724275.jpg",
+      "name": "LA DOUBLEJ",
+      "price": "850",
+      "description": "Wildbird set of 2 dessert plates",
+      "details": "Designed by La DoubleJ in collaboration with Italian ceramic giants Ancap, the colorful Wildbird dessert plate set is a selection of fine porcelain plates defined by bold patterns and hand-painted gold trims. Dishwasher safe, this colorful set of six plates is equally suited to serving salads and can be paired with other plates by La DoubleJ for a maximalist explosion of pattern and pigment."
+    },
+    {
+      "id": 4,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/3b/P00724146_d2.jpg",
+      "name": "LA DOUBLEJ",
+      "price": "10790",
+      "description": "Wildbird Bubble Medium vase",
+      "details": "Designed by La DoubleJ in collaboration with Italian ceramic giants Ancap, the colorful Wildbird dessert plate set is a selection of fine porcelain plates defined by bold patterns and hand-painted gold trims. Dishwasher safe, this colorful set of six plates is equally suited to serving salads and can be paired with other plates by La DoubleJ for a maximalist explosion of pattern and pigment."
+    },
+    {
+      "id": 5,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/e5/P00678849.jpg",
+      "name": "LA DOUBLEJ",
+      "price": "12150",
+      "description": "Pineapple set of 6 dessert plates",
+      "details": "Designed by La DoubleJ in collaboration with Italian ceramic giants Ancap, the colorful Wildbird dessert plate set is a selection of fine porcelain plates defined by bold patterns and hand-painted gold trims. Dishwasher safe, this colorful set of six plates is equally suited to serving salads and can be paired with other plates by La DoubleJ for a maximalist explosion of pattern and pigment."
+    },
+    {
+      "id": 6,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b4/P00724149.jpg",
+      "name": "LA DOUBLEJ",
+      "price": "5530",
+      "description": "Big Pineapple set of 2 dessert plates",
+      "details": "Designed by La DoubleJ in collaboration with Italian ceramic giants Ancap, the colorful Wildbird dessert plate set is a selection of fine porcelain plates defined by bold patterns and hand-painted gold trims. Dishwasher safe, this colorful set of six plates is equally suited to serving salads and can be paired with other plates by La DoubleJ for a maximalist explosion of pattern and pigment."
+    },
+    {
+      "id": 7,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/66/P00723891.jpg",
+      "name": "LA DOUBLEJ",
+      "price": "7250",
+      "description": "Wildbird soup and dinner plate set",
+      "details": "Designed by La DoubleJ in collaboration with Italian ceramic giants Ancap, the colorful Wildbird dessert plate set is a selection of fine porcelain plates defined by bold patterns and hand-painted gold trims. Dishwasher safe, this colorful set of six plates is equally suited to serving salads and can be paired with other plates by La DoubleJ for a maximalist explosion of pattern and pigment."
+    },
+    {
+      "id": 8,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1e/P00724147.jpg",
+      "name": "LA DOUBLEJ",
+      "price": "6050",
+      "description": "Wildbird charger plate",
+      "details": "Designed by La DoubleJ in collaboration with Italian ceramic giants Ancap, the colorful Wildbird dessert plate set is a selection of fine porcelain plates defined by bold patterns and hand-painted gold trims. Dishwasher safe, this colorful set of six plates is equally suited to serving salads and can be paired with other plates by La DoubleJ for a maximalist explosion of pattern and pigment."
+    },
+    {
+      "id": 9,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ab/P00678853.jpg",
+      "name": "LA DOUBLEJ",
+      "price": "5530",
+      "description": "Wildbird set of 2 dessert plates",
+      "details": "Designed by La DoubleJ in collaboration with Italian ceramic giants Ancap, the colorful Wildbird dessert plate set is a selection of fine porcelain plates defined by bold patterns and hand-painted gold trims. Dishwasher safe, this colorful set of six plates is equally suited to serving salads and can be paired with other plates by La DoubleJ for a maximalist explosion of pattern and pigment."
+    },
+    {
+      "id": 10,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/78/P00723804.jpg",
+      "name": "LA DOUBLEJ",
+      "price": "2450",
+      "description": "Wildbird Verde set of 2 linen napkins",
+      "details": "Designed by La DoubleJ in collaboration with Italian ceramic giants Ancap, the colorful Wildbird dessert plate set is a selection of fine porcelain plates defined by bold patterns and hand-painted gold trims. Dishwasher safe, this colorful set of six plates is equally suited to serving salads and can be paired with other plates by La DoubleJ for a maximalist explosion of pattern and pigment."
+    },
+    {
+      "id": 11,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/19/P00723806.jpg",
+      "name": "LA DOUBLEJ",
+      "price": "2450",
+      "description": "Pineapple Blu set of 2 linen napkins",
+      "details": "Designed by La DoubleJ in collaboration with Italian ceramic giants Ancap, the colorful Wildbird dessert plate set is a selection of fine porcelain plates defined by bold patterns and hand-painted gold trims. Dishwasher safe, this colorful set of six plates is equally suited to serving salads and can be paired with other plates by La DoubleJ for a maximalist explosion of pattern and pigment."
+    },
+    {
+      "id": 12,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/6d/P00723923_d2.jpg",
+      "name": "LA DOUBLEJ",
+      "price": "5230",
+      "description": "Cubi Oro set of 2 dessert plates",
+      "details": "Designed by La DoubleJ in collaboration with Italian ceramic giants Ancap, the colorful Wildbird dessert plate set is a selection of fine porcelain plates defined by bold patterns and hand-painted gold trims. Dishwasher safe, this colorful set of six plates is equally suited to serving salads and can be paired with other plates by La DoubleJ for a maximalist explosion of pattern and pigment."
+    },
+    {
+      "id": 13,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/77/P00723864.jpg",
+      "name": "LA DOUBLEJ",
+      "price": "4530",
+      "description": "Cubi Giallo set of 2 dessert plates",
+      "details": "Designed by La DoubleJ in collaboration with Italian ceramic giants Ancap, the colorful Wildbird dessert plate set is a selection of fine porcelain plates defined by bold patterns and hand-painted gold trims. Dishwasher safe, this colorful set of six plates is equally suited to serving salads and can be paired with other plates by La DoubleJ for a maximalist explosion of pattern and pigment."
+    },
+    {
+      "id": 14,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b0/P00723836.jpg",
+      "name": "LA DOUBLEJ",
+      "price": "14060",
+      "description": "Cubi Mix set of 6 espresso cups and saucers",
+      "details": "Designed by La DoubleJ in collaboration with Italian ceramic giants Ancap, the colorful Wildbird dessert plate set is a selection of fine porcelain plates defined by bold patterns and hand-painted gold trims. Dishwasher safe, this colorful set of six plates is equally suited to serving salads and can be paired with other plates by La DoubleJ for a maximalist explosion of pattern and pigment."
+    },
+    {
+      "id": 15,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/0b/P00723922.jpg",
+      "name": "LA DOUBLEJ",
+      "price": "5630",
+      "description": "Cubi Rosso set of 2 dessert plates",
+      "details": "Designed by La DoubleJ in collaboration with Italian ceramic giants Ancap, the colorful Wildbird dessert plate set is a selection of fine porcelain plates defined by bold patterns and hand-painted gold trims. Dishwasher safe, this colorful set of six plates is equally suited to serving salads and can be paired with other plates by La DoubleJ for a maximalist explosion of pattern and pigment."
+    },
+    {
+      "id": 16,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c1/P00723871.jpg",
+      "name": "LA DOUBLEJ",
+      "price": "16305",
+      "description": "Cubi Mix set of 6 dessert plates",
+      "details": "Designed by La DoubleJ in collaboration with Italian ceramic giants Ancap, the colorful Wildbird dessert plate set is a selection of fine porcelain plates defined by bold patterns and hand-painted gold trims. Dishwasher safe, this colorful set of six plates is equally suited to serving salads and can be paired with other plates by La DoubleJ for a maximalist explosion of pattern and pigment."
+    },
+    {
+      "id": 17,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/5c/P00723805.jpg",
+      "name": "LA DOUBLEJ",
+      "price": "2450",
+      "description": "Botanical set of 2 linen napkins",
+      "details": "Designed by La DoubleJ in collaboration with Italian ceramic giants Ancap, the colorful Wildbird dessert plate set is a selection of fine porcelain plates defined by bold patterns and hand-painted gold trims. Dishwasher safe, this colorful set of six plates is equally suited to serving salads and can be paired with other plates by La DoubleJ for a maximalist explosion of pattern and pigment."
+    },
+    {
+      "id": 18,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/10/P00723961.jpg",
+      "name": "LA DOUBLEJ",
+      "price": "8068",
+      "description": "Cubi jar",
+      "details": "Designed by La DoubleJ in collaboration with Italian ceramic giants Ancap, the colorful Wildbird dessert plate set is a selection of fine porcelain plates defined by bold patterns and hand-painted gold trims. Dishwasher safe, this colorful set of six plates is equally suited to serving salads and can be paired with other plates by La DoubleJ for a maximalist explosion of pattern and pigment."
+    },
+    {
+      "id": 19,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f9/P00723842.jpg",
+      "name": "LA DOUBLEJ",
+      "price": "7845",
+      "description": "Cubi Verde set of 2 espresso cups and saucers",
+      "details": "Designed by La DoubleJ in collaboration with Italian ceramic giants Ancap, the colorful Wildbird dessert plate set is a selection of fine porcelain plates defined by bold patterns and hand-painted gold trims. Dishwasher safe, this colorful set of six plates is equally suited to serving salads and can be paired with other plates by La DoubleJ for a maximalist explosion of pattern and pigment."
+    },
+    {
+      "id": 20,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b8/P00678845.jpg",
+      "name": "LA DOUBLEJ",
+      "price": "15930",
+      "description": "Big Pineapple Blu Medium tablecloth",
+      "details": "Designed by La DoubleJ in collaboration with Italian ceramic giants Ancap, the colorful Wildbird dessert plate set is a selection of fine porcelain plates defined by bold patterns and hand-painted gold trims. Dishwasher safe, this colorful set of six plates is equally suited to serving salads and can be paired with other plates by La DoubleJ for a maximalist explosion of pattern and pigment."
+    }
   ],
-  "loggeduser": [
-    
-  ],
-  "task" : [
-    
+  "CartItem": [
+    {
+      "id": 3,
+      "image": "https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1f/P00724275.jpg",
+      "name": "LA DOUBLEJ",
+      "price": "850",
+      "description": "Wildbird set of 2 dessert plates",
+      "details": "Designed by La DoubleJ in collaboration with Italian ceramic giants Ancap, the colorful Wildbird dessert plate set is a selection of fine porcelain plates defined by bold patterns and hand-painted gold trims. Dishwasher safe, this colorful set of six plates is equally suited to serving salads and can be paired with other plates by La DoubleJ for a maximalist explosion of pattern and pigment."
+    }
   ]
 }
